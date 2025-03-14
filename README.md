@@ -15,7 +15,7 @@ A powerful and user-friendly blog site 📝 built with the Django framework 🐍
 1. Clone the repository:
    ```sh
    git clone https://github.com/HusniyorAzimboyev/blog_in_django.git
-   cd blog-site
+   cd blog_in_django
    ```
 
 2. Create and activate a virtual environment:
